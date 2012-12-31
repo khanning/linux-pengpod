@@ -9,7 +9,7 @@ show_help()
 	printf "\nbuild.sh - Top level build scritps\n"
 	echo "Valid Options:"
 	echo "  -h  Show help message"
-	echo "  -p <platform> platform, e.g. sun4i, sun4i-lite, sun4i_crane"
+	echo "  -p <platform> platform, e.g. a10, sun4i, sun4i-lite, sun4i_crane"
 	printf "  -m <module> module\n\n"
 }
 
