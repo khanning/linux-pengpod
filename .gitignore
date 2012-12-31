@@ -10,6 +10,7 @@
 # Normal rules
 #
 .*
+*.~
 *.o
 *.o.*
 *.a
@@ -32,6 +33,8 @@ modules.builtin
 *.lzo
 *.patch
 *.gcno
+*.bak
+*.diff
 
 #
 # Top-level generic files
